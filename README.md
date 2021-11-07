@@ -18,7 +18,7 @@
 - [항공편 도착 지연 예측](https://github.com/rbill109/SideProject/blob/main/ML_project/%EC%A1%B0%EC%9C%A0%EB%AF%BC_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 ## Deep Learning 
-- [기계시설물 고장예지센서 이상 탐지]
+- [기계시설물 고장예지센서 이상 탐지](https://github.com/rbill109/SideProject/tree/main/ML_DL/source_code/Nakalacou_2021/Anomaly_Detection)
 - [영화 추천]
 
 ## Visualization
