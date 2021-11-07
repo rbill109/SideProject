@@ -12,6 +12,11 @@
 - Kernel density estimation
 - Gamma kernel density estimation
 
+### [Deep Learning Architectures](https://link.springer.com/book/10.1007/978-3-030-36721-3)을 참고하여 아래 알고리즘을 구현
+- Gradient Descent
+- Newton's Method
+- One-hidden layer Neural Network
+
 ## Data Mining/Machine Learning
 - [대출 상환 여부 예측](https://github.com/rbill109/SideProject/blob/main/ML_project/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D%EC%8B%A4%EC%8A%B5_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
 
