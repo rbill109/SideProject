@@ -19,7 +19,7 @@
 - [Gamma kernel density estimation](https://github.com/rbill109/SideProject/blob/main/Code_Implementation/Gamma_kernel_density_estimation.ipynb)
 
 ### [DL] 스터디 
-- [기계시설물 고장예지센서 이상 탐지](https://github.com/rbill109/SideProject/tree/main/ML_DL/source_code/Nakalacou_2021/Anomaly_Detection)
+- [기계시설물 고장예지센서 이상 탐지](https://github.com/rbill109/SideProject/tree/main/Project_Study/Nakalacou_2021/Anomaly_Detection)
 - [영화 추천]
 
 ### [DL] [Deep Learning Architectures](https://link.springer.com/book/10.1007/978-3-030-36721-3)을 참고하여 아래 알고리즘을 구현
