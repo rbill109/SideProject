@@ -29,7 +29,7 @@
 ![](./image/img2.PNG)
 
 - [One-hidden layer Neural Network](https://github.com/rbill109/SideProject/blob/main/Code_Implementation/One_hidden_layer_NN.R) 
-<img src="https://github.com/rbill109/SideProject/blob/main/image/nn.PNG" width="250" height="150"/>
+<img src="https://github.com/rbill109/SideProject/blob/main/image/nn.PNG" width="250" height="180"/>
 
 - [L2-Regularization](https://github.com/rbill109/SideProject/blob/main/Code_Implementation/L2_regularization.R)
 <img src="https://github.com/rbill109/SideProject/blob/main/image/img3.jpg" width="700" height="550"/>
