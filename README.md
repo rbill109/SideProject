@@ -3,8 +3,8 @@
 
 - - -
 ### [ML] 교내 프로젝트
-- [대출 상환 여부 예측](https://github.com/rbill109/SideProject/blob/main/ML_DL/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D%EC%8B%A4%EC%8A%B5_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
-- [항공편 도착 지연 예측](https://github.com/rbill109/SideProject/blob/main/ML_DL/%EC%A1%B0%EC%9C%A0%EB%AF%BC_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+- [대출 상환 여부 예측](https://github.com/rbill109/SideProject/blob/main/ML_DL/source_code/StatAP_2019)
+- [항공편 도착 지연 예측](https://github.com/rbill109/SideProject/blob/main/ML_DL/source_code/DataMining_2019)
 
 ### [ML] [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)을 참고하여 아래 알고리즘을 구현
 #### 통계 분석 모듈 - [Mini_ML.py](https://github.com/rbill109/SideProject/tree/main/Code_Implementation/module)
