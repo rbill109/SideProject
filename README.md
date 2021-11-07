@@ -4,12 +4,15 @@
 - - -
 ## Code Implementation
 ### [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)을 참고하여 아래 알고리즘을 구현
+#### [Mini_ML.py](https://github.com/rbill109/SideProject/blob/main/Code_Implementation/ESL/module/Mini_ML.py)
 - Linear regression
 - Linear Regression of an Indicator
 - Linear discriminant analysis
 - Quadratic discriminant analysis
 - Logistic regression
 - Kernel density estimation
+
+#### 일반적인 KDE와 Gamma Kernel을 사용한 KDE를 비교 
 - Gamma kernel density estimation
 
 ### [Deep Learning Architectures](https://link.springer.com/book/10.1007/978-3-030-36721-3)을 참고하여 아래 알고리즘을 구현
