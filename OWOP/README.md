@@ -5,7 +5,6 @@ Repository for organizing material from the Yonsei paper reading group. @ Yonsei
 #### Channels
 [Youtube](https://www.youtube.com/channel/UCg7qqlsEjz0jKc91UIlwk6w/featured)
 
----
 ## What we have studied
 ### Season 1
 *Jan 4, 2021 - June 7, 2021*
@@ -55,6 +54,7 @@ Flow-based models [[Slides]](https://github.com/rbill109/SideProject/blob/main/O
 - "Masked Autoregressive Flow for Density Estimation"
 - "Glow : Generative Flow with Invertible 1x1 Convolutions" 
 
+---
 
 ### Season 2
 *July 19, 2021 - Dec 6, 2021*
