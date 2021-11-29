@@ -6,8 +6,8 @@ Repository for organizing material from the Yonsei paper reading group. @ Yonsei
 [Youtube](https://www.youtube.com/channel/UCg7qqlsEjz0jKc91UIlwk6w/featured)
 
 ---
-
-## Season 1
+## What we have studied
+### Season 1
 *Jan 4, 2021 - June 7, 2021*
 
 <code>Computer Vision</code>
@@ -56,7 +56,7 @@ Flow-based models [[Slides]](https://github.com/rbill109/SideProject/blob/main/O
 - "Glow : Generative Flow with Invertible 1x1 Convolutions" 
 
 
-## Season 2
+### Season 2
 *July 19, 2021 - Dec 6, 2021*
 
 <code>Time-Series Deep Learning</code>
