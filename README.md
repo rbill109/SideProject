@@ -21,7 +21,7 @@
 
 ### [DL] 스터디 
 - [기계시설물 고장예지센서 이상 탐지](https://github.com/rbill109/SideProject/tree/main/Project_Study/Nakalacou_2021/Anomaly_Detection)
-- [영화 추천]
+- [영화 추천(진행 중)]
 
 ### [DL] [Deep Learning Architectures](https://link.springer.com/book/10.1007/978-3-030-36721-3)을 참고하여 아래 알고리즘을 구현
 - [Gradient Descent, Newton's Method](https://github.com/rbill109/SideProject/blob/main/Code_Implementation/Gradient_Descent_and_Newton's.R)
