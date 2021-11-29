@@ -3,7 +3,7 @@
 
 - - -
 ### [ML/DL] [OWOP(One Week One Paper)](https://github.com/rbill109/SideProject/tree/main/OWOP)
-- 논문 리뷰 스터디
+- 다양한 ML, DL 알고리즘 관련 논문을 리뷰하는 스터디
 
 ### [ML/Visualization] 교내 프로젝트
 - [대출 상환 여부 예측](https://github.com/rbill109/SideProject/blob/main/Project_Study/StatAP_2019)
@@ -19,10 +19,11 @@
 - Logistic regression
 - Kernel density estimation
 
-#### 일반적인 KDE와 Gamma Kernel을 사용한 KDE를 비교 
+#### [Gamma Kernel을 사용한 KDE](https://link.springer.com/article/10.1023/A:1004165218295) 구현
 - [Gamma kernel density estimation](https://github.com/rbill109/SideProject/blob/main/Code_Implementation/Gamma_kernel_density_estimation.ipynb)
  
 ### [DL] [네카라쿠](https://github.com/rbill109/SideProject/tree/main/Project_Study/Nakalacou_2021)
+Anomaly Detection, RecSys 등 다양한 딥러닝 알고리즘을 공부하고 구현하는 스터디
 - [기계시설물 고장예지센서 이상 탐지](https://github.com/rbill109/SideProject/tree/main/Project_Study/Nakalacou_2021/Anomaly_Detection)
 - [MovieLens 영화 추천(진행 중)](https://github.com/rbill109/SideProject/tree/main/Project_Study/Nakalacou_2021/RecSys)
 
