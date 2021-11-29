@@ -1,6 +1,6 @@
 # yonsei-ml
-Repository for organizing material from the Yonsei ML study group.  
-@ Yonsei University (Seoul), Department of Statistics & Data Science.
+Repository for organizing material from the Yonsei ML study group. 
+@ Yonsei University (Seoul), Department of Statistics & Data Science. <br>
 [Notion](https://www.notion.so/03c0e8bd25814fcaaa7397839edb97a5)
 
 ## What we have studied  
