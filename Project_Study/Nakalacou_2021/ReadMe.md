@@ -2,7 +2,7 @@
 Repository for organizing material from the Yonsei ML study group. 
 @ Yonsei University (Seoul), Department of Statistics & Data Science. <br>
 
-## Channels
+#### Channels
 [Notion](https://www.notion.so/03c0e8bd25814fcaaa7397839edb97a5)
 
 ---
