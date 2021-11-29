@@ -11,7 +11,7 @@ Repository for organizing material from the Yonsei paper reading group. @ Yonsei
 *Jan 4, 2021 - June 7, 2021*
 
 <code>Computer Vision</code>
-- "Multiresunet : Rethinking the u-net architecture for multimodal biomedical image segmentation"
+- "Multiresunet : Rethinking the u-net architecture for multimodal biomedical image segmentation"[Video](https://www.youtube.com/watch?v=v6vV505z4Pk) [Slides]
 - "Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks"
 - "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks(2019)"
 - "YOLOv4: Optimal Speed and Accuracy of Object Detection"
