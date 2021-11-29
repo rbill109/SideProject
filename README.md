@@ -1,7 +1,10 @@
 # Side Project
-교내 프로젝트 및 스터디 과제물을 정리하는 공간
+교내 프로젝트 및 스터디 활동 내용을 정리하는 공간
 
 - - -
+### [ML/DL] [OWOP(One Week One Paper)](https://github.com/rbill109/SideProject/tree/main/OWOP)
+- 논문 리뷰 스터디
+
 ### [ML/Visualization] 교내 프로젝트
 - [대출 상환 여부 예측](https://github.com/rbill109/SideProject/blob/main/Project_Study/StatAP_2019)
 - [항공편 도착 지연 예측](https://github.com/rbill109/SideProject/blob/main/Project_Study/DataMining_2019)
@@ -18,12 +21,12 @@
 
 #### 일반적인 KDE와 Gamma Kernel을 사용한 KDE를 비교 
 - [Gamma kernel density estimation](https://github.com/rbill109/SideProject/blob/main/Code_Implementation/Gamma_kernel_density_estimation.ipynb)
-
-### [DL] 스터디 
+ 
+### [DL] [네카라쿠](https://github.com/rbill109/SideProject/tree/main/Project_Study/Nakalacou_2021)
 - [기계시설물 고장예지센서 이상 탐지](https://github.com/rbill109/SideProject/tree/main/Project_Study/Nakalacou_2021/Anomaly_Detection)
-- [영화 추천(진행 중)](https://github.com/rbill109/SideProject/tree/main/Project_Study/Nakalacou_2021/RecSys)
+- [MovieLens 영화 추천(진행 중)](https://github.com/rbill109/SideProject/tree/main/Project_Study/Nakalacou_2021/RecSys)
 
-### [DL] [Deep Learning Architectures](https://link.springer.com/book/10.1007/978-3-030-36721-3)을 참고하여 아래 알고리즘을 구현
+### [DL] 개인 공부 [Deep Learning Architectures](https://link.springer.com/book/10.1007/978-3-030-36721-3)을 참고하여 아래 알고리즘을 구현
 - [Gradient Descent, Newton's Method](https://github.com/rbill109/SideProject/blob/main/Code_Implementation/Gradient_Descent_and_Newton's.R)
 
 ![](./image/img1.PNG)
