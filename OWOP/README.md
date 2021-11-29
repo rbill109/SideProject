@@ -18,13 +18,13 @@ Repository for organizing material from the Yonsei paper reading group. @ Yonsei
 - "MobileNetV2: Inverted Residuals and Linear Bottlenecks" [[Slides]]()
 
 <code>Natural-Language Processing</code>
-- "Efficient Estimation of Word Representations in Vector Space" [[Slides]]()
-- "Distributed Representations of Words and Phrases and their Compositionality" [[Slides]]()
+- "Efficient Estimation of Word Representations in Vector Space" [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/word2vec.pdf)
+- "Distributed Representations of Words and Phrases and their Compositionality" [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/word2vec.pdf)
 - "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/BERT.pdf)
 
 <code>Anomaly Detection</code>
-- "Outlier Detection with Autoencoder Ensembles"
-- "USAD : UnSupervised Anomaly Detection on multivariate time series" [[Video]](https://www.youtube.com/watch?v=LuwSlx5rzis)
+- "Outlier Detection with Autoencoder Ensembles" [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/owop%20(outlier%20detection%20with%20autoencoder%20ensembles)%20(1).pdf)
+- "USAD : UnSupervised Anomaly Detection on multivariate time series" [[Video]](https://www.youtube.com/watch?v=LuwSlx5rzis) [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/USAD.pdf)
 - "Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection" [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/DAGMM.pdf)
 
 <code>RecSys</code>
@@ -40,10 +40,13 @@ Repository for organizing material from the Yonsei paper reading group. @ Yonsei
 - "Marginally-calibrated deep distributional regression" [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/Marginally_Calibrated_Deep_Distributional_Regression.pdf)
 
 <code>Variational Inference</code>
+VI & BNN [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/1.SVI%26VAE.pdf)
 - "Practical variational inference for neural networks"
 - "Stochastic variational inference"
 - "Variational Inference : A review for statisticians"
 - "Advances in variational inference"
+
+Flow-based models [[Slides]]https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/2.Flow_based_models.pdf
 - "Non-linear Independent Components Estimation (NICE)"
 - "MADE : Masked Autoencoder for Distribution Estimation" 
 - "Variational Inference with Normalizing Flows"
