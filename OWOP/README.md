@@ -46,7 +46,7 @@ VI & BNN [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slide
 - "Variational Inference : A review for statisticians"
 - "Advances in variational inference"
 
-Flow-based models [[Slides]]https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/2.Flow_based_models.pdf
+Flow-based models [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/2.Flow_based_models.pdf)
 - "Non-linear Independent Components Estimation (NICE)"
 - "MADE : Masked Autoencoder for Distribution Estimation" 
 - "Variational Inference with Normalizing Flows"
@@ -72,7 +72,7 @@ Flow-based models [[Slides]]https://github.com/rbill109/SideProject/blob/main/OW
 
 <code>RecSys</code>
 - "A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Eriched Recommendation" [[Video]](https://www.youtube.com/watch?v=5CLxUT1KNro) [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/Neural%20Recommendation%20System.pdf)
-- "Neural Collaborative Filtering" [[Video]](https://www.youtube.com/watch?v=zFlqhV1vv4w) [[Slides]] (https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/Neural%20collaborative%20filtering_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+- "Neural Collaborative Filtering" [[Video]](https://www.youtube.com/watch?v=zFlqhV1vv4w) [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/Neural%20collaborative%20filtering_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - "Deep Neural Networks for YouTube Recommendations" [[Video]](https://www.youtube.com/watch?v=R6XE3SAPJFI)
 - "The role of preference ~ in a genre exploration recommender" [[Video]](https://www.youtube.com/watch?v=DqZeVm3O2J0)
 
