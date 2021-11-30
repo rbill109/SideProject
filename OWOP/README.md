@@ -39,6 +39,7 @@ Repository for organizing material from the Yonsei paper reading group. @ Yonsei
 - "Marginally-calibrated deep distributional regression" [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/Marginally_Calibrated_Deep_Distributional_Regression.pdf)
 
 <code>Variational Inference</code>
+
 VI & BNN [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/1.SVI%26VAE.pdf)
 - "Practical variational inference for neural networks"
 - "Stochastic variational inference"
