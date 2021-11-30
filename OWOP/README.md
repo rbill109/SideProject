@@ -67,6 +67,7 @@ Flow-based models [[Slides]](https://github.com/rbill109/SideProject/blob/main/O
 - "TAnoGAN: Time Series Anomaly Detection with Generative Adversarial Networks" [[Video]](https://www.youtube.com/watch?v=dHhwzrf8EAg)
 
 <code>Latent Space Model</code>
+- "Auto-Encoding Variational Bayes" [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/Auto_Encoding_Variational_Bayes.pdf)
 - "Stochastic Backpropagation and Approximate Inference in Deep Generative Models" [[Video]](https://www.youtube.com/watch?v=PAY8h_1b1BI) [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/%EC%9D%B4%EC%9E%AC%ED%99%98_0823_VAE.pdf)
 - "A deep latent space model for graph representation learning" [[Video]](https://www.youtube.com/watch?v=qJEtpABZQ-4)
 - "NVAE: A Deep Hierarchical Variational Autoencoder" [[Video]](https://www.youtube.com/watch?v=KG70iQai9UY)
@@ -81,4 +82,4 @@ Flow-based models [[Slides]](https://github.com/rbill109/SideProject/blob/main/O
 - "On GANs and GMMs" [[Video]](https://www.youtube.com/watch?v=iXK9anLm8ZA) [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/On%20GANs%20and%20GMMs.pdf)
 - "XGBoost: A Scalable Tree Boosting System" [[Video]](https://www.youtube.com/watch?v=XXPLmd5K150)
 - "Image Segmentation Using Local GMM in a Variational Framework" [[Video]](https://www.youtube.com/watch?v=B1hdB7nd6rA) [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/LGMM.pdf)
-- "Auto-Encoding Variational Bayes" [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/Auto_Encoding_Variational_Bayes.pdf)
+
