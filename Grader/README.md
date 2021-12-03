@@ -1,7 +1,7 @@
-※ 김태원님의 [<파이썬 알고리즘 문제풀이 (코딩테스트 대비)>](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)에서 제공하는 채점기가 작동하지 않을 경우 사용할 수 있는 채점 프로그램입니다. <br>
+※ 김태원님의 [<파이썬 알고리즘 문제풀이 (코딩테스트 대비)>](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8) 채점기가 작동하지 않을 경우 사용할 수 있는 채점 프로그램입니다. <br>
 
 # Description
-기능은 동일하며 추가로 구현한 부분은 다음과 같습니다. 
+기능은 기존 채점기와 동일하며 추가로 구현한 부분은 다음과 같습니다. 
 - 원하는 내용의 테스트 케이스를 추가할 수 있습니다. 
 <br> 단, `txt` 파일명의 경우 입력값은 **in**, 출력값은 **out**으로 시작해야 합니다.
 
