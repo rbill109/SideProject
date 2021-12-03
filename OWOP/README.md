@@ -2,7 +2,7 @@
 #### *One Week One Paper* <br>
 Repository for organizing material from the Yonsei paper reading group. @ Yonsei University (Seoul), Department of Statistics & Data Science.
 
-#### Channels
+> #### Channels
 [Youtube](https://www.youtube.com/channel/UCg7qqlsEjz0jKc91UIlwk6w/featured)
 
 ## What we have studied
