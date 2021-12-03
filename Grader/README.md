@@ -4,8 +4,8 @@
 
 # Description
 추가로 구현한 부분은 다음과 같습니다. 
-- 원하는 내용의 테스트 케이스를 추가할 수 있습니다. <br>
-단, txt 파일명의 경우 입력값은 `in`, 출력값은 `out`으로 시작해야 합니다.
+- 원하는 내용의 테스트 케이스를 추가할 수 있습니다. 
+<br> 단, `txt` 파일명의 경우 입력값은 **in**, 출력값은 **out**으로 시작해야 합니다.
 
 - 채점기를 여러 개의 폴더에 한 번에 복사하거나 제거할 수 있습니다. <br>
 
@@ -53,7 +53,8 @@ $ Python Grader.py -c Sec8_1.py
 ---
 
 ## Setting.py
-채점하려는 폴더가 여러 개일 경우 `Setting.py`를 실행해 한 번에 `Grader.py`를 복사하거나 제거할 수 있습니다. <br>
+채점하려는 폴더가 여러 개일 경우 `Setting.py`를 실행해 한 번에 `Grader.py`를 복사하거나 제거할 수 있습니다. 
+<br>
 단, 해당 문제 폴더가 아닌 Section 폴더가 위치한 경로에 `Grader.py`와 `Setting.py`를 위치시켜야 합니다.
 
 ```md
@@ -68,7 +69,7 @@ Inflearn
 
 ```
 
-`Setting.py`가 위치한 모든 폴더의 모든 **하위 디렉토리** 폴더에 `Grader.py`를 복사하거나 제거합니다.
+`Setting.py`가 위치한 모든 폴더의 모든 **하위** 디렉토리 폴더에 `Grader.py`를 복사하거나 제거합니다.
 
 ```bash
 # Copy to each subdirectory(default)
@@ -78,7 +79,9 @@ $ python Setting.py
 $ python Setting.py -o remove
 ```
 
-## License
+---
+
+# License
 ```
 Copyright (c) 2021 Yumin Cho
 ```
