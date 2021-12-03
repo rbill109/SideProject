@@ -2,6 +2,14 @@
 교내 프로젝트 및 스터디 활동 내용을 정리하는 공간
 
 ---
+
+### [Algorithm] [인프런](https://github.com/rbill109/SideProject/tree/main/Algorithm/Inflearn)
+[자동채점기 구현](https://github.com/rbill109/SideProject/blob/main/Grader/README.md)
+
+### [Algorithm] [프로그래머스](https://github.com/rbill109/SideProject/tree/main/Algorithm/Programmers)
+
+---
+
 ### [ML/DL] [OWOP(One Week One Paper)](https://github.com/rbill109/SideProject/tree/main/OWOP)
 - 다양한 ML, DL 알고리즘 관련 논문을 리뷰하는 스터디
 
