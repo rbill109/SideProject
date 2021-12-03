@@ -8,8 +8,8 @@ Repository for organizing material from the Yonsei paper reading group. @ Yonsei
 ## What we have studied
 ☆ - papers I've covered
 
-### Season 1
-*Jan 4, 2021 - June 7, 2021*
+> ### Season 1
+>> *Jan 4, 2021 - June 7, 2021*
 
 <code>Computer Vision</code>
 - *"Multiresunet : Rethinking the u-net architecture for multimodal biomedical image segmentation"* ☆ [[Video]](https://www.youtube.com/watch?v=v6vV505z4Pk) [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/MultiResUnet.pdf)
@@ -59,8 +59,8 @@ Flow-based models [[Slides]](https://github.com/rbill109/SideProject/blob/main/O
 
 ---
 
-### Season 2
-*July 19, 2021 - Dec 6, 2021*
+> ### Season 2
+>> *July 19, 2021 - Dec 6, 2021*
 
 <code>Time-Series Deep Learning</code>
 - *"Deep and Confident Prediction for Time Series at Uber"* [[Video]](https://www.youtube.com/watch?v=z8xnL1mQou4) [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/Deep%20and%20Confident%20Prediction%20for%20Time%20Series%20at%20Uber.pdf)
