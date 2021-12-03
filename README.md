@@ -3,10 +3,8 @@
 
 ---
 
-### [Algorithm] [인프런](https://github.com/rbill109/SideProject/tree/main/Algorithm/Inflearn)
-- [자동채점기 구현](https://github.com/rbill109/SideProject/blob/main/Grader/README.md)
-
-### [Algorithm] [프로그래머스](https://github.com/rbill109/SideProject/tree/main/Algorithm/Programmers)
+### [Algorithm] [코드 자동채점기](https://github.com/rbill109/SideProject/blob/main/Grader/README.md)
+- 인프런 강의에서 제공하는 채점기 오류 발생 시 대체용으로 사용할 수 있는 채점기를 구현
 
 ---
 
