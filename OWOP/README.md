@@ -14,7 +14,7 @@ Repository for organizing material from the Yonsei paper reading group. @ Yonsei
 `Computer Vision`
 - *"Multiresunet : Rethinking the u-net architecture for multimodal biomedical image segmentation"* ☆ [[Video]](https://www.youtube.com/watch?v=v6vV505z4Pk) [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/MultiResUnet.pdf)
 - *"Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks"* ☆ [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/MTCNN.pdf)
-- *"EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks(2019)"* ☆ [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/EfficientNet.pdf)
+- *"EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks"* ☆ [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/EfficientNet.pdf)
 - *"YOLOv4: Optimal Speed and Accuracy of Object Detection"* ☆ [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/YOLOv4.pdf)
 - *"MobileNetV2: Inverted Residuals and Linear Bottlenecks"* [[Slides]]()
 
