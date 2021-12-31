@@ -42,20 +42,20 @@ Repository for organizing material from the Yonsei paper reading group. @ Yonsei
 
 `Variational Inference`
 
-VI & BNN [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/1.SVI%26VAE.pdf)
-- *"Practical variational inference for neural networks"*
-- *"Stochastic variational inference"*
-- *"Variational Inference : A review for statisticians"*
-- *"Advances in variational inference"*
+- VI & BNN [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/1.SVI%26VAE.pdf)
+  - *"Practical variational inference for neural networks"*
+  - *"Stochastic variational inference"*
+  - *"Variational Inference : A review for statisticians"*
+  - *"Advances in variational inference"*
 
-Flow-based models [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/2.Flow_based_models.pdf)
-- *"Non-linear Independent Components Estimation (NICE)"*
-- *"MADE : Masked Autoencoder for Distribution Estimation"* 
-- *"Variational Inference with Normalizing Flows"*
-- *"Improved Variational Inference with Inverse Autoregressive Flow"*
-- *"Density Estimation using Real NVP"*
-- *"Masked Autoregressive Flow for Density Estimation"*
-- *"Glow : Generative Flow with Invertible 1x1 Convolutions"* 
+- Flow-based models [[Slides]](https://github.com/rbill109/SideProject/blob/main/OWOP/Slides/2.Flow_based_models.pdf)
+  - *"Non-linear Independent Components Estimation (NICE)"*
+  - *"MADE : Masked Autoencoder for Distribution Estimation"* 
+  - *"Variational Inference with Normalizing Flows"*
+  - *"Improved Variational Inference with Inverse Autoregressive Flow"*
+  - *"Density Estimation using Real NVP"*
+  - *"Masked Autoregressive Flow for Density Estimation"*
+  - *"Glow : Generative Flow with Invertible 1x1 Convolutions"* 
 
 ---
 
